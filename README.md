@@ -1,6 +1,6 @@
 # Ex. No. 2  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 17-10-2024
+## DATE: 9/9/24
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
